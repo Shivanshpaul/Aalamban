@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /
+# Pre-RERA preview: intentionally not indexable until launch approval.
